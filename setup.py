@@ -9,7 +9,7 @@ setup(
         "pandas",
         "scikit-learn"
     ],
-    author="Kanishth Dhiman",
+    author="Kanish Dhiman",
     description="AHO algorithm for feature selection in machine learning pipelines.",
     url="https://github.com/KanishDhiman02/hummingbird-kanish",
 )
