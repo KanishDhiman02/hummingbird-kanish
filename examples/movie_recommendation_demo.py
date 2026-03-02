@@ -7,8 +7,7 @@ import os
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-from hummingbird_kanish.dataloader import DataLoader
-from hummingbird_kanish.optimizer import Optimizer
+from optimizer_engine import DataLoader, Optimizer
 
 def generate_mock_movie_data():
     """Generates a dummy dataset for movie preferences."""
