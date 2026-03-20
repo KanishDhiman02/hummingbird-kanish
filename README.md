@@ -12,8 +12,8 @@ Hummingbird-AHO provides a production-ready interface to significantly reduce fe
 ## 📦 Installation
 Clone the repository and install it as a local package:
 ```bash
-git clone https://github.com/KanishDhiman02/hummingbird-kanish.git
-cd hummingbird-kanish
+git clone https://github.com/KanishDhiman02/Hummingbird_AHO_Optimizer_Engine.git
+cd Hummingbird_AHO_Optimizer_Engine
 pip install .
 ```
 ## 🛠️ Quick Start
